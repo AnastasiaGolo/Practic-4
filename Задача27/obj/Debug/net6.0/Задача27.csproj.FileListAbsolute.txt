@@ -1,0 +1,15 @@
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\Задача27.csproj.AssemblyReference.cache
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\Задача27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\Задача27.AssemblyInfoInputs.cache
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\Задача27.AssemblyInfo.cs
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\Задача27.csproj.CoreCompileInputs.cache
+C:\Users\agolo\Desktop\Практическая4\Задача27\bin\Debug\net6.0\Задача27.exe
+C:\Users\agolo\Desktop\Практическая4\Задача27\bin\Debug\net6.0\Задача27.deps.json
+C:\Users\agolo\Desktop\Практическая4\Задача27\bin\Debug\net6.0\Задача27.runtimeconfig.json
+C:\Users\agolo\Desktop\Практическая4\Задача27\bin\Debug\net6.0\Задача27.dll
+C:\Users\agolo\Desktop\Практическая4\Задача27\bin\Debug\net6.0\Задача27.pdb
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\Задача27.dll
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\refint\Задача27.dll
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\Задача27.pdb
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\Задача27.genruntimeconfig.cache
+C:\Users\agolo\Desktop\Практическая4\Задача27\obj\Debug\net6.0\ref\Задача27.dll
